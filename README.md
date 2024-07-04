@@ -22,20 +22,20 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 >  
 >
 >### Funcionamiento
-> La maquetacion se basa en lo siguentes requimientos
+> **La maquetacion se basa en lo siguentes requimientos:**
 >* Pagina principal donde mostrar todos los articulos
->* Paginas donde mostrar los articulos por tipo
+>* Diversas paginas donde mostrar los articulos por tipo
 >* pagina donde mostrar un carrito con articulos
 >* en la pagina donde se visualiza el carrito incluir una pagina donde se podra eliminar todos los articulos
 >* en la pagina donde se visualiza el carrito incluir una pagina donde se podra eliminar un solo articulo del carrito
 >### Instalaciones
 >
->* Descargar en visual estudio code la extension live server
->* Descargar el archivo zip desde el repositorio
->* Descomprimir el archivo zip
->* Abrir la carpeta desde visual estudio code
->* Iniciar el archivo main con ayuda de la extension live server
->* 
+>1. Descargar en visual estudio code la extension live server
+>2. Descargar el archivo zip desde el repositorio
+>3. Descomprimir el archivo zip
+>4. Abrir la carpeta desde visual estudio code
+>5. Iniciar el archivo main con ayuda de la extension live server
+>  
 >### Tecnologias-utilizadas
 >Lista de lenguajes en los cuales se desarrollo
 >* [HTML](HTML): Version 5.0
