@@ -13,13 +13,13 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 | 4 | [Funcionamiento](#Funcionamiento)|
 | 5 | [Tecnologias utilizadas](#Tecnologias-utilizadas) |
 | 6 | [Hecho por](#Desarrollador)|
-| 7 | [Mensaje del creador](#Mensaje-del-creador)|
+| 7 | [Mensaje del desarrollador](#Mensaje-del-desarrollador)|
 
 ***
 > [!IMPORTANT]  
 >
 >### Informacion-general
->  El desarrollo de la maquetacion fue bastante fructífero para el aprendizaje del desarrollador, Durante el desarrollo del proyecto el manejo del tiempo fue bastante clave para conseguir terminar todos los requerimientos que se especificaban en base a lo que se
+>  El desarrollo de la maquetacion fue bastante fructífero para el aprendizaje del desarrollador. Durante el desarrollo del proyecto el manejo del tiempo fue bastante clave para conseguir terminar todos los requerimientos que se especificaban en lo que se
 >  requeria.
 > 
 > no se busca continuar con el proyecto o solucionar problemas que presenta actualmente en base a esta informacion no recibira actualizaciones el repositorio
@@ -54,6 +54,6 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 >
 ***
 > [!NOTE]
->### Mensaje-del-creador
+>### Mensaje-del-desarrollador
 >Gracias por ver este repositorio
 
