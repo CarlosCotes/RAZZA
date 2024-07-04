@@ -1,7 +1,8 @@
 # RAZZA
 
 ### Descripcion
-El proyecto consta de una pagina web con diferentes estilos
+El repositorio cuenta con la maquetacion para un ecomerce 
+La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante la realizacion de un reto para el desarrollador ya que este proyecto se realizo en 3 horas
 ***
 ## Tabla de contenido
 | Indice |  |
@@ -18,17 +19,23 @@ El proyecto consta de una pagina web con diferentes estilos
 > [!IMPORTANT]  
 >
 >### Informacion-general
->Informacion mas especifica sobre el proyecto
+>  
 >
 >### Funcionamiento
->descripcion de como funciona
+> La maquetacion se basa en lo siguentes requimientos
+>* Pagina principal donde mostrar todos los articulos
+>* Paginas donde mostrar los articulos por tipo
+>* pagina donde mostrar un carrito con articulos
+>* en la pagina donde se visualiza el carrito incluir una pagina donde se podra eliminar todos los articulos
+>* en la pagina donde se visualiza el carrito incluir una pagina donde se podra eliminar un solo articulo del carrito
+>### Instalaciones
 >
->### Instalaciones 
+>* Descargar en visual estudio code la extension live server
 >* Descargar el archivo zip desde el repositorio
 >* Descomprimir el archivo zip
 >* Abrir la carpeta desde visual estudio code
->* Descargas en visual estudio code la extension live server
 >* Iniciar el archivo main con ayuda de la extension live server
+>* 
 >### Tecnologias-utilizadas
 >Lista de lenguajes en los cuales se desarrollo
 >* [HTML](HTML): Version 5.0
