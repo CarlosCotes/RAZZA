@@ -24,11 +24,11 @@ El proyecto consta de una pagina web con diferentes estilos
 >descripcion de como funciona
 >
 >### Instalaciones 
->*Descargar el archivo zip desde el repositorio
->*Descomprimir el archivo zip
->*Abrir la carpeta desde visual estudio code
->*Descargas en visual estudio code la extension live server
->*Iniciar el archivo main con ayuda de la extension live server
+>* Descargar el archivo zip desde el repositorio
+>* Descomprimir el archivo zip
+>* Abrir la carpeta desde visual estudio code
+>* Descargas en visual estudio code la extension live server
+>* Iniciar el archivo main con ayuda de la extension live server
 >### Tecnologias-utilizadas
 >Lista de lenguajes en los cuales se desarrollo
 >* [HTML](HTML): Version 5.0
