@@ -9,17 +9,17 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 |--|--|
 | 1 | [Descripcion](#Descripcion) |
 | 2 | [Informacion general](#Informacion-general)|
-| 3 | [Instalaciones](#Instalaciones) |
-| 4 | [Tecnologias utilizadas](#Tecnologias-utilizadas) |
-| 5 | [Funcionamiento](#Funcionamiento)|
-| 6 | [Hecho por](#Hecho-por)|
+| 3 | [Instalacion](#Instalaciones) |
+| 4 | [Funcionamiento](#Funcionamiento)|
+| 5 | [Tecnologias utilizadas](#Tecnologias-utilizadas) |
+| 6 | [Hecho por](#Desarrollador)|
 | 7 | [Mensaje del creador](#Mensaje-del-creador)|
 
 ***
 > [!IMPORTANT]  
 >
 >### Informacion-general
->  
+>  El desarrollo de la maquetacion fue bastante fructífero para el aprendizaje del desarrollador
 >
 >### Funcionamiento
 > **La maquetacion se basa en lo siguentes requimientos:**
@@ -34,7 +34,7 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 >2. Descargar el archivo zip desde el repositorio
 >3. Descomprimir el archivo zip
 >4. Abrir la carpeta desde visual estudio code
->5. Iniciar el archivo main con ayuda de la extension live server
+>5. Iniciar el archivo index.html con ayuda de la extension live server
 >  
 >### Tecnologias-utilizadas
 >Lista de lenguajes en los cuales se desarrollo
@@ -45,7 +45,7 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 ***
 > [!WARNING]  
 > 
->### Creador
+>### Desarrollador
 >* [Carlos Cotes](https://gist.github.com/CarlosCotes)
 >
 ***
