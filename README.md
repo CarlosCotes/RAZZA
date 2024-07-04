@@ -9,7 +9,7 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 |--|--|
 | 1 | [Descripcion](#Descripcion) |
 | 2 | [Informacion general](#Informacion-general)|
-| 3 | [Instalacion](#Instalaciones) |
+| 3 | [Instalacion](#Instalacion) |
 | 4 | [Funcionamiento](#Funcionamiento)|
 | 5 | [Tecnologias utilizadas](#Tecnologias-utilizadas) |
 | 6 | [Hecho por](#Desarrollador)|
@@ -32,7 +32,7 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 >* pagina donde mostrar un carrito con articulos
 >* en la pagina donde se visualiza el carrito incluir una pagina donde se podra eliminar todos los articulos
 >* en la pagina donde se visualiza el carrito incluir una pagina donde se podra eliminar un solo articulo del carrito
->### Instalaciones
+>### Instalacion
 >
 >1. Descargar en visual estudio code la extension live server
 >2. Descargar el archivo zip desde el repositorio
