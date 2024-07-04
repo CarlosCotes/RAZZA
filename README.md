@@ -19,7 +19,9 @@ La intancia en la cual de desarrollo la maquetacion de este ecomerce fue durante
 > [!IMPORTANT]  
 >
 >### Informacion-general
->  El desarrollo de la maquetacion fue bastante fructífero para el aprendizaje del desarrollador
+>  El desarrollo de la maquetacion fue bastante fructífero para el aprendizaje del desarrollador, Durante el desarrollo del proyecto el manejo del tiempo fue bastante clave para conseguir terminar todos los requerimientos que se especificaban en base a lo que se >requeria.
+>no se busca continuar con el proyecto o solucionar problemas que presenta actualmente en base a esta informacion no recibira actualizaciones el repositorio
+> 
 >
 >### Funcionamiento
 > **La maquetacion se basa en lo siguentes requimientos:**
